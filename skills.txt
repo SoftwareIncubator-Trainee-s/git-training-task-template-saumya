@@ -1,0 +1,11 @@
+Skills:
+C++
+HTML
+CSS
+DSA
+Git and GitHub
+
+Hobbies:
+Sketching
+Learning new things
+Coding
